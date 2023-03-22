@@ -48,5 +48,3 @@ Stored Procedure provides the provision of manual user input for the tips and ad
 2. Run DMDD_Triggers.sql (run both triggers one at a time)
 3. Run DMDD_DML.sql
 4. Run Encryption.sql
-
-
