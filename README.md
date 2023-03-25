@@ -11,7 +11,7 @@
 # Business Use Case #1: Analyze Food Wastage by Restaurant
 
 - Restaurants are required to input their daily food wastage for environmental auditing Using views, auditors can be shown the daily wastage and the corresponding restaurant.
-- 
+
 - Using Stored Procedures, we can calculate the daily, monthly, half yearly or annual food wastage for the particular restaurant. 
 
 'sp_CalculateAndDisplayFoodWastageByRestaurants'
