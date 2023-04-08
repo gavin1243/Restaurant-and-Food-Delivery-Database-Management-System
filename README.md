@@ -1,4 +1,4 @@
-# Restaurant-And-Food-Delivery-Database-System
+# Restaurant And Food Delivery Database System
 
 # Purpose:
 - Lack of centralized data linking the entire restaurant and food delivery entities and workflows together under a common digital ecosystem. 
